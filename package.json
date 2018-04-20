@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@datafire/hacker_news": "3.0.0"
+  }
+}
